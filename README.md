@@ -241,9 +241,17 @@ semver
 
 #### preferGlobal
 
+待补充
+
 #### private
 
+待补充
+
 #### publishConfig
+
+待补充
+
+
 
 ### Default Values
 
